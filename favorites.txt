@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hamburger
 Fries
 Waffles
+=======
+Jexi
+Avengers: End Game
+Venom: Let there be Carnage
+>>>>>>> movies
